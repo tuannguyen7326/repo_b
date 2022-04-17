@@ -1,0 +1,3 @@
+[submodule "share/repo_a"]
+	path = share/repo_a
+	url = https://github.com/tuannguyen7326/repo_a.git
