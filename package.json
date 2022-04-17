@@ -1,0 +1,21 @@
+{
+  "name": "repo_b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "updateShare": "scripts\\updateShare.bat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuannguyen7326/repo_b.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuannguyen7326/repo_b/issues"
+  },
+  "homepage": "https://github.com/tuannguyen7326/repo_b#readme"
+}
